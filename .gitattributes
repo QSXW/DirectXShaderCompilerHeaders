@@ -1,0 +1,2 @@
+dxc/lib/libdxcompiler.so filter=lfs diff=lfs merge=lfs -text
+dxc/lib/libdxil.so filter=lfs diff=lfs merge=lfs -text
